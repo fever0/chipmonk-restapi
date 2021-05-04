@@ -6,7 +6,7 @@
 
 then.. 
 
-visit the endpoints in your browser or Postman:
+visit the endpoints in Postman:
 
 ##### Register
 
